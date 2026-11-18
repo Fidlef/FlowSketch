@@ -1,0 +1,13 @@
+timestamp,src_ip,dst_ip,dst_port,protocol,bytes,dns_query
+2026-11-18T12:00:00Z,192.0.2.10,198.51.100.8,443,TCP,200,
+2026-11-18T12:00:30Z,192.0.2.10,198.51.100.8,443,TCP,220,
+2026-11-18T12:01:00Z,192.0.2.10,198.51.100.8,443,TCP,210,
+2026-11-18T12:01:30Z,192.0.2.10,198.51.100.8,443,TCP,215,
+2026-11-18T12:02:00Z,192.0.2.10,198.51.100.8,443,TCP,205,
+2026-11-18T12:02:30Z,192.0.2.10,198.51.100.8,443,TCP,208,
+2026-11-18T12:03:00Z,192.0.2.20,203.0.113.53,53,UDP,90,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa01.telemetry.example.test
+2026-11-18T12:03:17Z,192.0.2.20,203.0.113.53,53,UDP,90,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb02.telemetry.example.test
+2026-11-18T12:03:34Z,192.0.2.20,203.0.113.53,53,UDP,90,cccccccccccccccccccccccccccccccccc03.telemetry.example.test
+2026-11-18T12:03:51Z,192.0.2.20,203.0.113.53,53,UDP,90,dddddddddddddddddddddddddddddddddd04.telemetry.example.test
+2026-11-18T12:04:08Z,192.0.2.20,203.0.113.53,53,UDP,90,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee05.telemetry.example.test
+2026-11-18T12:04:25Z,192.0.2.20,203.0.113.53,53,UDP,90,ffffffffffffffffffffffffffffffffff06.telemetry.example.test
